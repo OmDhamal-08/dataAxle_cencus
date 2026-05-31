@@ -1,0 +1,23 @@
+{
+  "model": "xgb",
+  "records": [
+    {
+      "age": 44,
+      "workclass": "private",
+      "education": "11th",
+      "education-num": 7,
+      "marital-status": "separated",
+      "occupation": "other-service",
+      "relationship": "unmarried",
+      "race": "black",
+      "sex": "female",
+      "capital-gain": 0,
+      "capital-loss": 0,
+      "hours-per-week": 60,
+      "native-country": "united-states",
+      "random_flag": "n",
+      "source_system": "crm",
+      "event_time_std": "2025-09-22T18:30:00.000Z"
+    }
+  ]
+}
